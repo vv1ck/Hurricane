@@ -2,66 +2,69 @@
 
 <img src="/hack/Hurricane.png"></img>
 
-[![Instagram Badge](https://img.shields.io/badge/Instagram-@221298-blue?style=flat&logo=instagram)](https://instagram.com/221298)
-[![Telegram Badge](https://img.shields.io/badge/Telegram-@vv1ck-blue?style=flat&logo=telegram)](https://t.me/vv1ck)
+[![Instagram Badge](https://img.shields.io/badge/Instagram-@221298-purple?style=flat&logo=instagram)](https://instagram.com/221298)
+[![Telegram Badge](https://img.shields.io/badge/Telegram-@vv3ck-blue?style=flat&logo=telegram)](https://t.me/vv3ck)
 
+## Overview
 
+With this tool, you can filter files containing URL type leaks 🦠. For example: Url:email:password. For example: instagram.com. All Instagram-related accounts will then be saved in a file.
 
-With this tool, you can filter files containing URL type leaks 🦠. For example: Url:email:password . For example: instagram.com. All Instagram-related accounts will then be saved in a file.
+## Features
 
-- You specify the name of the site you want to extract accounts from
-- For example: instagram.com
-- All Instagram-related accounts will then be
+- Specify the name of the site you want to extract accounts from.
+- Extract from one site or all sites.
+- Search for an account.
+- Extract emails and passwords.
+- Filter accounts.
 
-## It includes other options such as:
+## Data Files
 
-- Extract from one site
-- Extract from all sites
-- Search for an account
-- Extract emails and passwords
-- Filter accounts
+I have provided 6 files (data) that you can use to extract accounts. If you need new data files, you can download them from the sites:
 
-I have provided 6 files (data) that you can use to extract accounts . If you need new data files, you can download them from the sites :
+> leakforum.io  
+> nulled.to  
+> cracked.io  
 
-> leakforum.io
-> nulled.to
-> cracked.io
+## Supported Systems
 
-## Supported systems
+| System     | Supported |
+|------------|-----------|
+| Kali Linux | ✅         |
+| Windows    | ✅         |
+| Android    | ✅         |
+| iOS        | ✅         |
 
-| System | Supported |
-| ------ | ------ |
-| Kali linux | Supported ✅ |
-| Windows | Supported ✅  |
-| Android | Supported ✅  |
-| IOS | Supported ✅  |
-
-You will find the tool in exe format so that you can use it directly on Windows and also find its source code 🖥 if you want to run it on your phone 🥬or Kali Linux🖥.  
-
-## Note:
-
-I have placed the files (data) in another folder because they are too large and difficult to download.
+You will find the tool in exe format for direct use on Windows and also find its source code 🖥 if you want to run it on your phone 🥬 or Kali Linux 🖥.
 
 ## Installation
 
-Download the resource:
+1. **Download the resource:**
 
-```sh
-sudo git clone https://github.com/vv1ck/Hurricane
-```
-Go to the folder :
-```sh
-cd Hurricane
-```
-Run (tests):
+    ```sh
+    sudo git clone https://github.com/vv1ck/Hurricane
+    ```
 
-```sh
-python3 Hurricane.py
-```
-## ________________________________________________
+2. **Go to the folder:**
+
+    ```sh
+    cd Hurricane
+    ```
+
+3. **Run (tests):**
+
+    ```sh
+    python3 Hurricane.py
+    ```
+
+## Note
+
+I have placed the files (data) in another folder because they are too large and difficult to download.
+
+## Demo
 
 ![Demo GIF](/hack/Hurricane.gif)
-**By Joker , IG: @221298**
+
+**By Joker, IG: @221298**
 
 [//]: # (These are reference links used in the body of this note and get stripped out when the markdown processor does its job. There is no need to format nicely because it shouldn't be seen. Thanks SO - http://stackoverflow.com/questions/4823468/store-comments-in-markdown-syntax)
 
