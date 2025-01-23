@@ -1,7 +1,7 @@
 # Hurricane Hack Data
 
-[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
-
+- **instagram**: [@YourInstagramHandle](https://instagram.com/221298)
+- **telegram**: [@YourTelegramHandle](https://t.me/vv3ck)
 With this tool, you can filter files containing URL type leaks 🦠. For example: Url:email:password . For example: instagram.com. All Instagram-related accounts will then be saved in a file.
 
 - You specify the name of the site you want to extract accounts from
