@@ -50,7 +50,7 @@ You will find the tool in exe format for direct use on Windows and also find its
     cd Hurricane
     ```
 
-3. **Run (tests):**
+3. **Run (Hurricane.py):**
 
     ```sh
     python3 Hurricane.py
