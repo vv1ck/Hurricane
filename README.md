@@ -2,8 +2,14 @@
 
 <img src="/hack/Hurricane.png"></img>
 
-[![Instagram Badge](https://img.shields.io/badge/Instagram-@221298-purple?style=flat&logo=instagram)](https://instagram.com/221298)
-[![Telegram Badge](https://img.shields.io/badge/Telegram-@vv3ck-blue?style=flat&logo=telegram)](https://t.me/vv3ck)
+<div align="center">
+    <a href="https://instagram.com/221298">
+        <img src="https://img.shields.io/badge/Instagram-@221298-purple?style=flat&logo=instagram" alt="Instagram Badge">
+    </a>
+    <a href="https://t.me/vv3ck">
+        <img src="https://img.shields.io/badge/Telegram-@vv3ck-blue?style=flat&logo=telegram" alt="Telegram Badge">
+    </a>
+</div>
 
 ## Overview
 
@@ -50,7 +56,7 @@ You will find the tool in exe format for direct use on Windows and also find its
     cd Hurricane
     ```
 
-3. **Run (Hurricane.py):**
+3. **Run (tests):**
 
     ```sh
     python3 Hurricane.py
