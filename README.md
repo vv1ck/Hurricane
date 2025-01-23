@@ -1,7 +1,9 @@
 # Hurricane Hack Data
 
-[![Instagram Badge](https://img.shields.io/badge/Instagram-@YourInstagramHandle-blue?style=flat&logo=instagram)](https://instagram.com/YourInstagramHandle)
-[![Telegram Badge](https://img.shields.io/badge/Telegram-@YourTelegramHandle-blue?style=flat&logo=telegram)](https://t.me/YourTelegramHandle)
+[![Instagram Badge](https://img.shields.io/badge/Instagram-@221298-blue?style=flat&logo=instagram)](https://instagram.com/221298)
+[![Telegram Badge](https://img.shields.io/badge/Telegram-@vv1ck-blue?style=flat&logo=telegram)](https://t.me/vv1ck)
+
+[![Video Tutorial](https://img.shields.io/badge/Video-Tutorial-red?style=flat&logo=youtube)](https://www.youtube.com/watch?v=YourVideoID)
 
 With this tool, you can filter files containing URL type leaks 🦠. For example: Url:email:password . For example: instagram.com. All Instagram-related accounts will then be saved in a file.
 
