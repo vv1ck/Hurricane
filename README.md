@@ -1,6 +1,5 @@
 # Hurricane Hack Data
 
-![Demo GIF](/hack/Hurricane.gif)
 <img src="/hack/Hurricane.png"></img>
 
 [![Instagram Badge](https://img.shields.io/badge/Instagram-@221298-blue?style=flat&logo=instagram)](https://instagram.com/221298)
@@ -60,6 +59,7 @@ python3 Hurricane.py
 | Android | Supported ✅  |
 | IOS | Supported ✅  |
 
+![Demo GIF](/hack/Hurricane.gif)
 **By Joker , IG: @221298**
 
 [//]: # (These are reference links used in the body of this note and get stripped out when the markdown processor does its job. There is no need to format nicely because it shouldn't be seen. Thanks SO - http://stackoverflow.com/questions/4823468/store-comments-in-markdown-syntax)
