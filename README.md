@@ -1,6 +1,7 @@
 # Hurricane Hack Data
 
-![Demo GIF](https://github.com/vv1ck/Hurricane/hack/Hurricane.gif)
+![Demo GIF](/hack/Hurricane.gif)
+<img src="/hack/Hurricane.png"></img>
 
 [![Instagram Badge](https://img.shields.io/badge/Instagram-@221298-blue?style=flat&logo=instagram)](https://instagram.com/221298)
 [![Telegram Badge](https://img.shields.io/badge/Telegram-@vv1ck-blue?style=flat&logo=telegram)](https://t.me/vv1ck)
