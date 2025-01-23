@@ -27,6 +27,15 @@ I have provided 6 files (data) that you can use to extract accounts . If you nee
 > nulled.to
 > cracked.io
 
+## Supported systems
+
+| System | Supported |
+| ------ | ------ |
+| Kali linux | Supported ✅ |
+| Windows | Supported ✅  |
+| Android | Supported ✅  |
+| IOS | Supported ✅  |
+
 You will find the tool in exe format so that you can use it directly on Windows and also find its source code 🖥 if you want to run it on your phone 🥬or Kali Linux🖥.  
 
 ## Note:
@@ -49,15 +58,7 @@ Run (tests):
 ```sh
 python3 Hurricane.py
 ```
-
-## Supported systems
-
-| System | Supported |
-| ------ | ------ |
-| Kali linux | Supported ✅ |
-| Windows | Supported ✅  |
-| Android | Supported ✅  |
-| IOS | Supported ✅  |
+## ________________________________________________
 
 ![Demo GIF](/hack/Hurricane.gif)
 **By Joker , IG: @221298**
